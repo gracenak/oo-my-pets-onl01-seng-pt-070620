@@ -62,7 +62,6 @@ end
     pet.mood = "nervous"
     pet.owner = nil
     end
-  end
   
 
 
