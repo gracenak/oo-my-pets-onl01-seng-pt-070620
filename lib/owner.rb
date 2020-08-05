@@ -59,7 +59,7 @@ end
     dogs.each {|pet| pet.mood = "nervous"}
     pet.owner = nil
   end
-end
+
 
   
   def list_pets
